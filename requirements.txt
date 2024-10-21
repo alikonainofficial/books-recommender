@@ -1,0 +1,6 @@
+numpy
+pandas
+python-dotenv
+python_Levenshtein
+scikit_learn
+supabase
